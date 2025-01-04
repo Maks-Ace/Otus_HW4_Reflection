@@ -40,9 +40,7 @@ namespace Otus_HW4_Reflection
             Console.WriteLine($" Стандартный механизм:");
             Console.WriteLine($"   Время на сериализацию: {newtonSerializeElapsed.TotalMilliseconds} ms");
             Console.WriteLine($"   Время на десериализацию: {newtonDeSerializeElapsed.TotalMilliseconds} ms");
-
-
-
+            
         }
 
 
